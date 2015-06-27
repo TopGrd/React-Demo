@@ -1,0 +1,35 @@
+/* 
+* @Author: lizhuo04
+* @Date:   2015-06-27 16:33:35
+* @Last Modified by:   lizhuo04
+* @Last Modified time: 2015-06-27 16:47:03
+*/
+.dropdown {
+	width: 160px;
+	margin: 100px auto;
+	display: block;
+	border: none;
+	overflow: visible;
+	font: inherit;
+	text-transform: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	text-align: center;
+	vertical-align: middle;
+	text-decoration: none;
+	line-height: 2.5em;
+	min-height: 2.5em;
+	height: 2.5em;
+	cursor: pointer;
+	font-weight: bold;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	color: #666;
+	background-color: #f6f6f6;
+}
+.options li {
+	color: #666;
+	background: #fffaee;
+}
