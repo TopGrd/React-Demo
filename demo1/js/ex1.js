@@ -1,11 +1,10 @@
 /**
- * besq
- * Copyright 2015 Baidu Inc. All rights reserved.
+ * Think First, Code Later
  * @Date:   2015-06-27 15:42:12
  * @Last Modified by:   lizhuo04
- * @Last Modified time: 2015-06-27 16:48:38
+ * @Last Modified time: 2015-06-27 16:55:02
  * @file 一个简单的DropDown
- * @author lizhuo04(lizhuo04@baidu.com)
+ * @author Li'Zhuo(lizhuo04@baidu.com||topgrd@outlook.com)
  */
 var CountryDropdown = React.createClass({
 	getInitialState: function () {
